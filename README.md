@@ -1,7 +1,7 @@
 # crud
 >This project about that crud (create, read, update, delete) in "Laravel" and "Codeigniter" php framework. In this project I use jquery, Ajax, Rest API etc.
 
-<img src="laravel/public/images/demo.png" alt="preview.png" /><br>
+<img src="laravel/public/images/laravel-codeigniter.jpg" alt="preview.png" /><br>
 # crud installation.
 >First clone this repository for command:<br/>
 <code>$ git clone https://github.com/JoneCoder/crud.git</code><br/>
